@@ -20,6 +20,7 @@ To set up the project, follow these steps:
     ```sh
     git clone <repository-url>
     ```
+1a. Alternatively, you may download the zip file from the [github repo](https://github.com/akerpelman-cohere/environment-setup-test-app/)
 
 2. Navigate to the project directory:
 
